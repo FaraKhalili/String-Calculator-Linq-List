@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Fara\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Fara\\.nuget\\packages"
+    ]
+  }
+}

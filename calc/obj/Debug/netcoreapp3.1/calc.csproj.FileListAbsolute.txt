@@ -1,0 +1,13 @@
+E:\FARA PROJECTS\Calculator\calc\bin\Debug\netcoreapp3.1\calc.exe
+E:\FARA PROJECTS\Calculator\calc\bin\Debug\netcoreapp3.1\calc.deps.json
+E:\FARA PROJECTS\Calculator\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.json
+E:\FARA PROJECTS\Calculator\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.dev.json
+E:\FARA PROJECTS\Calculator\calc\bin\Debug\netcoreapp3.1\calc.dll
+E:\FARA PROJECTS\Calculator\calc\bin\Debug\netcoreapp3.1\calc.pdb
+E:\FARA PROJECTS\Calculator\calc\obj\Debug\netcoreapp3.1\calc.csprojAssemblyReference.cache
+E:\FARA PROJECTS\Calculator\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfoInputs.cache
+E:\FARA PROJECTS\Calculator\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfo.cs
+E:\FARA PROJECTS\Calculator\calc\obj\Debug\netcoreapp3.1\calc.csproj.CoreCompileInputs.cache
+E:\FARA PROJECTS\Calculator\calc\obj\Debug\netcoreapp3.1\calc.dll
+E:\FARA PROJECTS\Calculator\calc\obj\Debug\netcoreapp3.1\calc.pdb
+E:\FARA PROJECTS\Calculator\calc\obj\Debug\netcoreapp3.1\calc.genruntimeconfig.cache
